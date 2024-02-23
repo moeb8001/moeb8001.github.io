@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV_2"
-    url: moeb8001.github.io/files/ #CV_2024.pdf
+  - title: "CV"
+    url: moeb8001.github.io/files/CV_2024.pdf
     
   # - title: "Guide"
   #   url: /markdown/
