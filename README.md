@@ -1,5 +1,3 @@
----------
-
 
 ## Introduction
 Hello! I'm Mohammad, a senior year BSc Aerospace Engineering student at Delft University of Technology, Netherlands. Born on November 7, 2001, I've always been passionate about engineering from complex systems to basic insrtruments. I aim to leverage my diverse skills in engineering to make impactful contributions.
