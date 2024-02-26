@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Talking to drones "
+excerpt: "Voice command based flying of the CrazyFLie nano-UAV. Focused on onboard Voice Command Recognition for Crazyflie.<br/>
+![image](https://github.com/moeb8001/moeb8001.github.io/assets/112695184/99a9ecae-e9b7-4a9d-b96d-953cb4facb60)"
 collection: portfolio
 ---
 
