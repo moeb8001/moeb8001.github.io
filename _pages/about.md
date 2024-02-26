@@ -10,33 +10,23 @@ redirect_from:
 <details>
 <summary>Short Intro (click to expand)!</summary>
 
-Hello! I'm Mohammad, a senior year BSc Aerospace Engineering student at Delft University of Technology, Netherlands. Born on November 7, 2001, I've always been passionate about engineering from complex systems to basic insrtruments. I aim to leverage my diverse skills in engineering to make impactful contributions.
 
-My life and academic journey have been fueled by a deep passion for
-engineering, with a special focus on the boundless realm of making things seemingly impossible into reality.
-I hope to eventually be able to contribute my skills and enthusiasm to
-innovative **meaningfull** projects that redefine the possibilities within different engineering fields and be part of something bigger than
-myself.
+Hello! I'm Mohammad, a senior BSc Aerospace Engineering student at Delft University of Technology, Netherlands. Born in 2001 with a lifelong passion for engineering, I aim to apply my diverse skills to impactful projects. My academic journey, driven by a desire to transform the impossible into reality, has prepared me to contribute to innovative projects that redefine engineering possibilities. I aspire to be part of something larger than myself, making meaningful contributions across various fields.
+
+
 </details>
-
-## Introduction
-
-
 
 
 ## Education
 - **BSc Aerospace Engineering (Delft University of Technology)** - Sept 2021 to 2024
   - Minor in Engineering with Artificial Intelligence
 
-## Main Projects and Experiences
+
+## Currently busy with: 
 
 ### Delft Mercurians (RoboCup Small Size League)
 - **Role:** Mechanical Engineer, Team Member
 - **Description:** A pioneering RoboCup team from TU Delft aiming to compete in 2024. Contributed to the design and manufacturing of critical subsystems and laid the groundwork for future teams with comprehensive documentation.
-
-### Pre-Rotation Tire Extensions for Airplane Landing Gear
-- **Role:** Project Lead
-- **Description:** Innovated pre-rotation tire extensions to reduce rubber smoke during airplane landings, mentored by Fokker engineers. Enhanced my research and critical thinking skills. Part of the IMPACT competition, an innovation competition open to all TU Delft students, where I competed as the only first-year student.
 
 ### Research on CrazyFlie Platform
 - **Role:** Research Assistant
