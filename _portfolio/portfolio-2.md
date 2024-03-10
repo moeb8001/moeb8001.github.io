@@ -1,8 +1,12 @@
 ---
-title: "Minor Project"
-excerpt: "As Part of the AI minor at TU Delft, students spend the last 3 weeks of the minor working full time on a project given by a Prof/Phd stuent from diff faculties. Students pick the projects and work in groups. For our project we worked on training a model with Unet architecture using CFD simulation results for a specific case, with constant boundary conditions.  <br/><img src='/images/500x300.png'>"
+title: "Minor Project - Physics Informed Neural Networks"
+excerpt: "As Part of the AI minor at TU Delft, students spend the last 3 weeks of the minor working full time on a project given by a Prof/Phd stuent from diff faculties. Students pick the projects and work in groups. For our project we worked on training a model with Unet architecture using CFD simulation results for a specific case, with constant boundary conditions.<br/>
+![image](https://github.com/moeb8001/moeb8001.github.io/assets/112695184/c61f6845-1161-4eeb-b831-ac3aa56d7330)
+
 collection: portfolio
 ---
+
+
 
 
 One normal simulation, using OpenFoam, would take around an hour. With our trained model, one simulation takes less than a milli second.
