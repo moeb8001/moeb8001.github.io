@@ -12,8 +12,8 @@ main:
   - title: "Projects"
     url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Galley/Blog Posts"
+    url: /year-archive/
     
   - title: "CV"
     url: https://moeb8001.github.io/files/CV_2024.pdf # moeb8001.github.io/files/CV_2024.pdf
