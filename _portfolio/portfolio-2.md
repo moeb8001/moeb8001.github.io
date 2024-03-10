@@ -1,8 +1,8 @@
 
 ---
 title: "Minor Project - Physics Informed Neural Networks"
-excerpt: "As Part of the AI minor at TU Delft, students spend the very last 3 weeks of their minor working full time on a project given by a Prof/Phd stuent from diff faculties. <br/>
-
+excerpt: "As Part of the AI minor at TU Delft, students spend the very last 3 weeks of their minor working full time on a project given by a Prof/Phd stuent from diff faculties.![image](https://github.com/moeb8001/moeb8001.github.io/assets/112695184/95af1baf-4627-456f-8209-e300cdcd8338)
+ <br/>
 collection: portfolio
 ---
 
