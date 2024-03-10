@@ -1,4 +1,25 @@
 
+
+
+---
+title: "Talking to drones "
+excerpt: "Voice command based flying of a nano-UAV. Focused on onboard Voice Command Recognition for Crazyflie.<br/>
+![image](https://github.com/moeb8001/moeb8001.github.io/assets/112695184/99a9ecae-e9b7-4a9d-b96d-953cb4facb60)"
+collection: portfolio
+---
+
+
+# Project: Enabling Voice Command for the Crazyflie Nano-UAV
+
+Authors: Hanqiu Li Cai and Mohammad Ebrahimi  
+Supervisor: Suryansh Sharma  
+Project Duration: October 2023 - Present  
+Cover: A Crazyflie drone. 
+
+## Introduction
+
+
+<!---
 ---
 title: "Minor Project - Physics Informed Neural Networks"
 excerpt: "As Part of the AI minor at TU Delft, students spend the very last 3 weeks of their minor working full time on a project given by a Prof/Phd stuent from diff faculties."![image](https://github.com/moeb8001/moeb8001.github.io/assets/112695184/95af1baf-4627-456f-8209-e300cdcd8338)
