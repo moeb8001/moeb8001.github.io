@@ -1,7 +1,7 @@
 
 ---
 title: "Minor Project - Physics Informed Neural Networks"
-excerpt: "As Part of the AI minor at TU Delft, students spend the last 3 weeks of the minor working full time on a project given by a Prof/Phd stuent from diff faculties. Students pick the projects and work in groups. For our project we worked on training a model with Unet architecture using CFD simulation results for a specific case, with constant boundary conditions.<br/>
+excerpt: "As Part of the AI minor at TU Delft, students spend the very last 3 weeks of their minor working full time on a project given by a Prof/Phd stuent from diff faculties. <br/>
 
 collection: portfolio
 ---
