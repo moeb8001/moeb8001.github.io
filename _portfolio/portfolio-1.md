@@ -47,7 +47,32 @@ The set-up for the recording with the ESP board si shown below:
 ### Spectral Analysis
 
 Initial spectral analysis confirms that propeller noise is harmonic and directly proportional to the RPM of the motor, aligning with expectations and existing literature.
+![image](https://github.com/moeb8001/moeb8001.github.io/assets/112695184/777d5f97-9793-4641-b33e-05ba74606ca8)
 
+### Pic dump
+![image](https://github.com/moeb8001/moeb8001.github.io/assets/112695184/1da81e20-8f9f-44f4-a5ed-94f21c6fac37)
+
+
+![image](https://github.com/moeb8001/moeb8001.github.io/assets/112695184/d18598f4-405c-4edd-a5d0-69c53979402e)
+
+
+![image](https://github.com/moeb8001/moeb8001.github.io/assets/112695184/31fa257c-0fde-482d-a5d3-47b95ff596e3)
+
+
+![image](https://github.com/moeb8001/moeb8001.github.io/assets/112695184/70300e8a-7e4e-4122-bc52-f0258ed4e310)
+
+
+![image](https://github.com/moeb8001/moeb8001.github.io/assets/112695184/84bef0ba-d971-4d15-8d98-92308f6c66c6)
+
+![image](https://github.com/moeb8001/moeb8001.github.io/assets/112695184/0c7794af-58ce-4857-9f5d-55acf35fd73b)
+
+
+![image](https://github.com/moeb8001/moeb8001.github.io/assets/112695184/0c04cd20-ccee-4359-a39e-c330b5650f26)
+
+
+diff heights: ![image](https://github.com/moeb8001/moeb8001.github.io/assets/112695184/482abc02-3cad-4b28-b843-494e572f3cb2)
+
+<!--
 ## Interfacing and Onboard Processing
 
 This section covers the physical interface between the XIAO ESP32S3 module and the Crazyflie, including the deployment of an Edge Impulse keyword detection model and the communication framework established for autonomous operation.
