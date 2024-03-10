@@ -11,7 +11,7 @@ collection: portfolio
 Authors: Hanqiu Li Cai and Mohammad Ebrahimi  
 Supervisor: Suryansh Sharma  
 Project Duration: October 2023 - Present  
-Cover: A Crazyflie drone. Photo from SNSF Scientific Image Competition
+Cover: A Crazyflie drone. 
 
 ## Introduction
 
