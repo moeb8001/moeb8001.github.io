@@ -4,14 +4,14 @@ excerpt: "As Part of the AI minor at TU Delft, students spend the very last 3 we
 collection: portfolio
 ---
 
+This project was a cornerstone of the Artificial Intelligence minor at TU Delft, where students dedicate the final three weeks to a full-time project. Collaborating under the guidance of professors and PhD students from various faculties, we had the opportunity to delve deep into real-world applications of AI.
 
-As Part of the AI minor at TU Delft, students spend the last 3 weeks of the minor working full time on a project given by a Prof/Phd stuent from diff faculties. Students pick the projects and work in groups. For our project we worked on training a model with Unet architecture using CFD simulation results for a specific case, with constant boundary conditions.
+Challenge:  Using the Unet architecture, our goal was to leverage existing CFD simulation data to train a model capable of accurately predicting fluid dynamics under constant boundary conditions for which a ton of data was available. Typically, a single CFD simulation for this specific case, using OpenFoam software, requires about an hour to complete, consuming significant computational resources. Since there was already a ton of data available from previous simulations run using Openfoam, the aim was to take advantage of these data. 
 
-One normal simulation, using OpenFoam, would take around an hour. Right now they have a ton of simulation results laying around. The aim was to use these to train a model (a UNET) to learn from these simulation results. This way the model can be used instead off using a CFD solver every single time a small thing changes in the input. With our trained model, one simulation takes less than a millisecond. Using a CFD solver it takes more than an hour, needing a lot more computational power.
-
+Solution: Aftyer doing extensive literature study, we trained a Unet model with a wealth of pre-existing simulation data. By doing this we aimed to create an alternative to traditional CFD solvers (when it comes to cases for which a ton of data is already available). This approach promised to drastically reduce the time and computational power needed for simulations, allowing for rapid iterations and adjustments. 
 Introduction:
 
- <br/><img src='/images/minor/Minor_presentation_part1.mp4'>
+ <br/><video src='/images/minor/Minor_presentation_part1.mp4'>
 
 
 
