@@ -7,7 +7,7 @@ collection: portfolio
 
 
 # Project: Enabling Voice Command for the Crazyflie Nano-UAV
-
+(this is more of a place for dumping pics etc as of now)
 Authors: Hanqiu Li Cai and Mohammad Ebrahimi  
 Supervisor: Suryansh Sharma  
 Project Duration: October 2023 - Present  
@@ -74,26 +74,10 @@ Initial spectral analysis confirms that propeller noise is harmonic and directly
 
 diff heights: ![image](https://github.com/moeb8001/moeb8001.github.io/assets/112695184/482abc02-3cad-4b28-b843-494e572f3cb2)
 
-<!--
+
 ## Interfacing and Onboard Processing
 
-This section covers the physical interface between the XIAO ESP32S3 module and the Crazyflie, including the deployment of an Edge Impulse keyword detection model and the communication framework established for autonomous operation.
-
-### Hardware
-
-Details the pin schematics and the UART serial communication setup between the ESP32 module and the Crazyflie, facilitating command transmission for drone actions.
-
-### Software
-
-Describes the custom application developed for the Crazyflie, allowing for onboard control without external devices. The application initiates UART serial communication and performs actions based on received commands.
-
-### Initial Prototype
-
-Presents the current prototype capable of detecting basic keywords and executing commands under conditions of ambient noise.
-
-## Next Steps
-
-Outlines future directions, including noise filtering improvements, keyword sample collection for a robust detection model, hardware adjustments for power supply issues, and the potential expansion of voice commands to drone swarms.
+This section covers the physical interface between the XIAO ESP32S3 module and the Crazyflie, including the deployment of 
 
 ## References
 
